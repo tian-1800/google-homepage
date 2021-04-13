@@ -1,0 +1,1 @@
+This is the first project assigned by The Odin Project. We are to create Google homepage copycat
